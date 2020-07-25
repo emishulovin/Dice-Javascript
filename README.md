@@ -2,4 +2,4 @@
 
 Link to finished webpage: 
 
-dicee-challenge-emishulovin.surge.sh
+dice-javascript-emishulovin.surge.sh
